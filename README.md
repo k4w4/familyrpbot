@@ -1,2 +1,2 @@
-# familyrpbot1
+# familyrpbot
 Bot serwera FamilyRP stworzony przez kawa.
